@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+header {
+    background-color: 	#50C878;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+
+header .logo {
+color:black;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#hero {
+    background-image: url('/home/lavisha/Pictures/Screenshots/Screenshot from 2024-10-30 12-09-16.png') ;
+    background-size: cover;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: black;
+    background-color: #DADBDD;
+}
+
+.cta-button {
+    background-color: #ff5722;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section {
+    padding: 50px 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.faculty-member {
+    margin: 20px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+#contact{
+    background-color:	#5C4033;
+}
+#about{
+background-color: #DFD3E3;
+}
+#courses{
+background-color: #F3E8EA;
+}
+#faculty{
+background-color: #964B00;
+}
+#home{
+background-color:#006D5B;
+}
